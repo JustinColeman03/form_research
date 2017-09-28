@@ -1,5 +1,6 @@
 # Tellform
 [Tellform website](https://www.tellform.com/)
+|
 [GitHub page](https://github.com/tellform)
 
 * Form creating tool with central website
@@ -15,6 +16,7 @@
 
 # Form Tools
 [Form Tools website](https://formtools.org/)
+|
 [GitHub page](https://github.com/formtools)
 
 * Form creating tool with central website
@@ -31,7 +33,9 @@
 
 # Scribus
 [Scribus website](https://www.scribus.net/)
+|
 [Scribus tutorial](http://www.techrepublic.com/blog/tr-dojo/create-interactive-pdf-documents-with-scribus/)
+|
 [GitHub page](https://github.com/scribusproject)
 
 * Desktop publishing tool with central website
@@ -45,6 +49,7 @@
 
 # Alpaca
 [Alpaca website](http://www.alpacajs.org/)
+|
 [GitHub page](https://github.com/gitana/alpaca)
 
 * Form creating tool with central website
@@ -58,6 +63,7 @@
 
 # Formoid
 [Formoid website](http://formoid.com/)
+|
 [GitHub page](https://github.com/Formoid/Formoid)
 
 * Form creating tool with central website
