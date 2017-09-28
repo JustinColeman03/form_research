@@ -15,3 +15,20 @@ If the user chooses 'Yes' to any answer, show them this text then allow them to 
 > full or part-time paid work as well as with caring responsibilities.
 
 If the user chooses all 'No' answers, allow them to proceed automatically.
+
+## Topic 2:  Cultural and/or family responsibilities
+
+Introductory text:
+> Sometimes students tell us they have cultural obligations which impact on their
+> attendance at compulsory classes such as residential schools/on-campus labs
+> and availability for compulsory placements.
+
+1. Do you think this may be of concern to you at some stage?  Yes/No
+
+If the user chooses 'Yes' to this, show them this text then allow them to proceed:
+
+> Planning ahead of time is always the best approach to be sure that possible
+> solutions are explored so that essential course requirements and cultural
+> responsibilities can be met.
+
+If the user chooses 'No', allow them to proceed automatically.
