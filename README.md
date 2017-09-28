@@ -13,6 +13,7 @@
 * No tutorials available on website
 * User accounts available on website
 * Multiple languages available
+* Download available from GitHub
 
 # Form Tools
 [Form Tools website](https://formtools.org/)
@@ -75,3 +76,37 @@
 * Multiple languages
 * Download links available on website
 * Page on GitHub
+
+# formBuilder
+[formBuilder website](https://formbuilder.online/)
+|
+[GitHub page](https://github.com/kevinchappell/formBuilder)
+
+* Form creating tool with central website
+* Free to use
+* Interactive forms
+* Tutorials for set-up available on website
+* Demo of creator tool available from website
+* Page on GitHub
+* Download available from GitHub
+
+# EasyForm
+[GitHub page](https://github.com/emmasuzuki/EasyForm)
+
+* Form creating tool based from GitHub
+* Free to use
+* Interactive forms
+* Tutorials available on GitHub page
+* Page on GitHub
+* Download available from GitHub
+
+# Idega
+[Idega website](http://idega.github.io/formbuilder.html)
+|
+[GitHub page](https://github.com/idega/com.idega.formbuilder)
+
+* Form creating tool with central website
+* Free to use
+* Interactive forms
+* Page on GitHub
+* Download available from GitHub
